@@ -1,0 +1,10 @@
+Chrome IFrame Overlap Bug
+=========================
+
+Steps:
+1. Hovering on item in the iframe.
+1. Move the mouse slowly onto the overlapped element from parent to a point
+where you are no longer above the iframe.
+1. Expect the hovered item in the iframe to lose the hovered style.
+
+This expectation does not happen in Chrome 37.0.2062.94
