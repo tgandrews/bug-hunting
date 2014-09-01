@@ -10,3 +10,6 @@ where you are no longer above the iframe.
 Recreated in:
 - Chrome 37.0.2062.94
 - Chrome 39.0.2141.0 canary (64-bit)
+
+Chrome bug opened:
+https://code.google.com/p/chromium/issues/detail?id=409601
